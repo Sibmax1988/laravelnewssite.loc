@@ -1,0 +1,14 @@
+
+body {
+    background: url(../images/fon.jpeg);
+}
+
+.comments {
+    color: black;
+    font-weight: bold;
+    font-size: 200%;
+}
+.commentText{
+    height:150px;
+}
+
